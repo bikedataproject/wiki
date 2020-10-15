@@ -1,13 +1,14 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Introductory presentation](introductory-presentation.md)
 
 ## Meetups & events
 
 * [Meetup 13/10](meetups-and-events/first-meetup.md)
 * [Meetup 27/10](meetups-and-events/second-meetup.md)
 * [Meetup 10/11](meetups-and-events/third-meetup.md)
-* [Data Dive event](meetups-and-events/data-dive-event.md)
+* [Data Dive event 13/11](meetups-and-events/data-dive-event.md)
 
 ## Get involved
 
