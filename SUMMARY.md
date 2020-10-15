@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Introductory presentation](introductory-presentation.md)
+* [Project in a nutshell](introductory-presentation.md)
 
 ## Meetups & events
 
