@@ -4,7 +4,7 @@ description: "As presented at the start of our meetup, this is where we are toda
 
 # Project in a nutshell
 
-{% embed url="https://docs.google.com/presentation/d/10UeLo2W-s7JgZn9I6O9nEqU1Jdbu1XODoORNz47rj-g/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/10UeLo2W-s7JgZn9I6O9nEqU1Jdbu1XODoORNz47rj-g/edit?usp=sharing" caption="Introduction to the Bike Data Project" %}
 
 
 
