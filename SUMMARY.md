@@ -10,7 +10,7 @@
 * [Meetup 10/11](meetups-and-events/third-meetup.md)
 * [Data Dive event 13/11](meetups-and-events/data-dive-event.md)
 
-## Notes
+## Meeting minutes <a id="notes"></a>
 
 * [Meeting 21/10](notes/headsup.md)
 
