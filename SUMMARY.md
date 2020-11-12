@@ -14,6 +14,10 @@
 
 * [Meeting 21/10](notes/headsup.md)
 
+## Connect your app
+
+* [Bike Citizens](connect-your-app/bike-citizens.md)
+
 ## Get involved
 
 ---
