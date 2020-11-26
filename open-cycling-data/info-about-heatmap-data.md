@@ -20,6 +20,8 @@ Some more useful information:
 * The actual heatmap is real-time updated. The data behind the heatmap will be updated on a daily basis.
 * As we want to protect the privacy of individual cyclists, tracks only appear on the heatmap if at least 3 different cyclists have cycled on a specific road segment.
 
+![Heatmap for Brussels](../.gitbook/assets/image%20%282%29.png)
+
 
 
 
