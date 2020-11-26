@@ -6,13 +6,15 @@
 ## Meetups & events
 
 * [Meetup 13/10](meetups-and-events/first-meetup.md)
+* [Meeting 21/10](meetups-and-events/headsup.md)
 * [Meetup 27/10](meetups-and-events/second-meetup.md)
 * [Meetup 10/11](meetups-and-events/third-meetup.md)
 * [Data Dive event 11/12](meetups-and-events/data-dive-event.md)
 
-## Meeting minutes <a id="notes"></a>
+## data.bikedataproject.org <a id="open-cycling-data"></a>
 
-* [Meeting 21/10](notes/headsup.md)
+* [Info about heatmap data](open-cycling-data/info-about-heatmap-data.md)
+* [Discover our open cycling data](https://data.bikedataproject.org/)
 
 ## Connect your app
 
