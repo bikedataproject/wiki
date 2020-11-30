@@ -25,7 +25,7 @@
 ---
 
 * [Donate your cycling data](https://www.bikedataproject.org/)
-* [Spread the word](spread-the-word.md)
+* [Help us spread the word](spread-the-word.md)
 * [Source code on GitHub](https://github.com/bikedataproject)
 * [Join our Slack](https://join.slack.com/t/bikedataproject/shared_invite/zt-hr00amgw-elYn9WbdFHLta8qQKW_wvQ)
 
