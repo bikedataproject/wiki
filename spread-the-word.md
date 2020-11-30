@@ -29,5 +29,7 @@ Visual for Facebook \(1.200px × 630px\):
 
 ![](.gitbook/assets/image%20%284%29.png)
 
+Explainer video \(in mp4 format\):
 
+{% file src=".gitbook/assets/bikedataproject.mp4" %}
 
