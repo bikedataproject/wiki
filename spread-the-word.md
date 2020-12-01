@@ -13,8 +13,8 @@ What you can do to promote the Bike Data Project in your city:
 1. Identify all existing cycling initiatives and communities in your city.
 2. Find out what communication channels they use.
 3. Ask the group admin if you can post about the Bike Data Project or if the group admin can help you do so.
-4. Make a post about the Bike Data Project and encourage fellow citizens to go to[ https://bikedataproject.org](https://t.co/5TXuDxIQsl?amp=1) & start contributing.
-5. Set up a community event to discuss and learn about open cycling data \(with this [this Data Dive event](https://bikedatadive.eventbrite.be/) in Brussels as an example\).
+4. Spread the word and make a post about the Bike Data Project and encourage fellow citizens to go to[ https://bikedataproject.org](https://t.co/5TXuDxIQsl?amp=1) & start contributing. Please tag the Bike Data Project on [Twitter \(@bikedataproject\)](https://twitter.com/bikedataproject) & [Facebook \(@BikeDataProject\)](https://www.facebook.com/BikeDataProject) so that we can help you give it a little push.
+5. Open the conversation! Organise a community event to discuss and learn about open cycling data \(with this [this Data Dive event](https://bikedatadive.eventbrite.be/) in Brussels as an example\).
 
 What we've used to promote the Bike Data Project so far - please feel free to copy & redistribute the material in any medium or format:
 
