@@ -18,6 +18,12 @@ This is what the network looks like after doing this for Brussels:
 
 ![Map Matched Network](../.gitbook/assets/map-matched-network.png)
 
+We also calculate, per edge of the network, what other edges were used in trips passing by the segment. This gives us a view on how cyclists use each part of the road network and where they are coming from (in blue) and going to (in red):
+
+
+![Origin Destination Tree](../.gitbook/assets/origin-destination-tree.png)
+
+
 # Datasets
 
 **for new we only do this for Brussels, we are working on a global dataset**
