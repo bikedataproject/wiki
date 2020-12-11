@@ -32,7 +32,7 @@ We publish a few datasets:
 
 - The road network with the bicycle counts on it: [download](https://data.bikedataproject.org/counts/network.shp.zip)
 - Only the part of the network with bicycle traffic: [download](https://data.bikedataproject.org/counts/network-counts.geojson.zip)
-- A tree of cycling trips per edge in the network: [here](https://data.bikedataproject.org/counts/trees/)
+- The Origin Destination trees per edge in the network: [here](https://data.bikedataproject.org/counts/trees/)
 
 The data is published under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
