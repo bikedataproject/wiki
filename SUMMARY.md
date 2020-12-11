@@ -20,7 +20,7 @@
 ## Connect your app
 
 * [Bike Citizens](connect-your-app/bike-citizens.md)
-* [Potential Partern Apps](connect-your-app/potential-partner-apps.md)
+* [Potential Partner Apps](connect-your-app/potential-partner-apps.md)
 
 ## Get involved
 
