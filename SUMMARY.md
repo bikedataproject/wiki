@@ -13,7 +13,8 @@
 
 ## data.bikedataproject.org <a id="open-cycling-data"></a>
 
-* [Info about heatmap data](open-cycling-data/info-about-heatmap-data.md)
+* [Heatmap Data](open-cycling-data/info-about-heatmap-data.md)
+* [Bicycle Counts Data](open-cycling-data/bicycle-counts.md)
 * [Discover our open cycling data](https://data.bikedataproject.org/)
 
 ## Connect your app
