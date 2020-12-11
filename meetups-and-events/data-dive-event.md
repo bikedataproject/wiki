@@ -21,3 +21,11 @@ Absolutely not! Just your ambition to make cities better for cyclists.
 
 ![](../.gitbook/assets/eventbrite-visual.png)
 
+# Presentations
+
+- Technical Overview: https://slides.com/bikedataproject/tech-overview
+
+# Nodes
+
+TBD
+
