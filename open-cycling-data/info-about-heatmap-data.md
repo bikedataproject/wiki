@@ -6,6 +6,8 @@ description: "Our platform collects cycling data from different applications and
 
 Link to the heatmap: [https://data.bikedataproject.org/map/](https://data.bikedataproject.org/map/)
 
+![Global Heatmap](../.gitbook/assets/heatmap-global.png)
+
 The dataset available on [https://data.bikedataproject.org/heatmap/](https://data.bikedataproject.org/heatmap/) contains the following data:
 
 * Vector tiles covering the whole world \([info about tiles](https://wiki.openstreetmap.org/wiki/Tiles)\)
@@ -20,7 +22,7 @@ Some more useful information:
 * The actual heatmap is real-time updated. The data behind the heatmap will be updated on a daily basis.
 * As we want to protect the privacy of individual cyclists, tracks only appear on the heatmap if at least 3 different cyclists have cycled on a specific road segment.
 
-![Heatmap for Brussels](../.gitbook/assets/image%20%282%29.png)
+![Heatmap for Brussels](../.gitbook/assets/heatmap-brussels.png)
 
 
 
