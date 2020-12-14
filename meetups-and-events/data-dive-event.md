@@ -6,6 +6,8 @@ description: >-
 
 # Data Dive event 11/12
 
+## Data Dive event 11/12
+
 On Friday December 11, we'd like to invite you as a cyclist, data analyst, mobility planner, city planner, activist or journalist to join us during our data dive event, where we want to explore the opportunities of a more bicycle-friendly city with open data.
 
 **What will we do?**  
@@ -21,11 +23,11 @@ Absolutely not! Just your ambition to make cities better for cyclists.
 
 ![](../.gitbook/assets/eventbrite-visual.png)
 
-# Presentations
+## Presentations
 
-- Technical Overview: https://slides.com/bikedataproject/tech-overview
+* General presentation of the project
 
-# Notes
+{% embed url="https://docs.google.com/presentation/d/140J4WXTyRuRlGbT722c9R92GvvR7-MV1Pldf66ue6kI/edit?usp=sharing" %}
 
-TBD
+* Technical Overview: [https://slides.com/bikedataproject/tech-overview](https://slides.com/bikedataproject/tech-overview)
 

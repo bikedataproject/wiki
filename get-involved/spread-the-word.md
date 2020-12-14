@@ -23,13 +23,13 @@ What we've used to promote the Bike Data Project so far - please feel free to co
 
 Visual for Twitter \(1.012px × 506px\):
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29%20%281%29.png)
 
 Visual for Facebook \(1.200px × 630px\):
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 Explainer video \(in mp4 format\):
 
-{% file src=".gitbook/assets/bikedataproject.mp4" %}
+{% file src="../.gitbook/assets/bikedataproject.mp4" %}
 

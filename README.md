@@ -6,7 +6,7 @@ description: "With data collected by citizens, we want to show where and when pe
 
 This wiki serves as a documentation platform for all volunteers involved in the Bike Data Project. For now, we mainly use it to share the notes of our meetups and useful links. There's more to come! 🎉
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 ### **Let's get started!**
 

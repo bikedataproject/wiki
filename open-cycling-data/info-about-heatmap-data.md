@@ -2,7 +2,7 @@
 description: "Our platform collects cycling data from different applications and makes the collected data available as open data. Our first available open dataset is the data behind the heatmap. \U0001F5FA"
 ---
 
-# Info about heatmap data
+# Heatmap Data
 
 Link to the heatmap: [https://data.bikedataproject.org/map/](https://data.bikedataproject.org/map/)
 
@@ -23,8 +23,4 @@ Some more useful information:
 * As we want to protect the privacy of individual cyclists, tracks only appear on the heatmap if at least 3 different cyclists have cycled on a specific road segment.
 
 ![Heatmap for Brussels](../.gitbook/assets/heatmap-brussels.png)
-
-
-
-
 

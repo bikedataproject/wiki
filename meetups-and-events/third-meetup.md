@@ -12,5 +12,5 @@ Where is the event taking place? Due to the COVID-19 pandemic, this meetup will 
 
 Sign up here on [our Meetup page](https://www.meetup.com/Civic-Lab-Brussels/events/shnfzrybcpbnb/).
 
-![](../.gitbook/assets/bike-data-project-meetup%20%281%29.png)
+![](../.gitbook/assets/bike-data-project-meetup%20%281%29%20%281%29.png)
 
