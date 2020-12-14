@@ -25,9 +25,13 @@ Absolutely not! Just your ambition to make cities better for cyclists.
 
 ## Presentations
 
-* General presentation of the project
+* General presentation of the project:
 
 {% embed url="https://docs.google.com/presentation/d/140J4WXTyRuRlGbT722c9R92GvvR7-MV1Pldf66ue6kI/edit?usp=sharing" %}
 
-* Technical Overview: [https://slides.com/bikedataproject/tech-overview](https://slides.com/bikedataproject/tech-overview)
+* Technical Overview:
+
+{% embed url="https://slides.com/bikedataproject/tech-overview" %}
+
+
 
