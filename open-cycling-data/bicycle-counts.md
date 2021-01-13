@@ -26,13 +26,15 @@ We also calculate, per edge of the network, what other edges were used in trips 
 
 ## Datasets
 
-**for new we only do this for Brussels, we are working on a global dataset**
+**for now we only do this for Brussels, we are working on a global dataset**
 
 We publish a few datasets:
 
 * The road network with the bicycle counts on it: [download](https://data.bikedataproject.org/counts/network.shp.zip)
 * Only the part of the network with bicycle traffic: [download](https://data.bikedataproject.org/counts/network-counts.geojson.zip)
 * The Origin Destination trees per edge in the network: [here](https://data.bikedataproject.org/counts/trees/)
+
+These datasets are pretty complex, if you need help get in touch or join our [slack channel](https://join.slack.com/t/bikedataproject/shared_invite/zt-hr00amgw-elYn9WbdFHLta8qQKW_wvQ) for advice.
 
 The data is published under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
