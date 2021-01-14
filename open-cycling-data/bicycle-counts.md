@@ -13,7 +13,7 @@ The Bike Data Project collects bicycle trips. We match these trips to the road n
 Doing this for all cycling tracks in a area gives us a few different sets of data:
 
 * The \# of cyclists per link on the network in both forward an backward directions.
-* The routes cyclists perfer to take on the network.
+* The routes cyclists prefer to take on the network.
 * Where cyclists come from and where they go to in a certain area.
 
 This is what the network looks like after doing this for Brussels:
